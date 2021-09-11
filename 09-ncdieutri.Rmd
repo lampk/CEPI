@@ -1,0 +1,79 @@
+# Nghiên cứu điều trị {#therapeutic}
+
+## Mục tiêu
+
+1. Các dạng nghiên cứu đánh giá một phương pháp điều trị (đặc biệt là thử nghiệm lâm sàng)
+
+2. Cách đọc và đánh giá một nghiên cứu về điều trị
+
+## Vì sao cần nghiên cứu lâm sàng về phương pháp điều trị?
+
+(Ý tưởng/giả thuyết vs. bằng chứng)
+
+Trong thực tế, các ý tưởng hay giả thuyết về hiệu lực của các phương pháp điều trị thường bắt nguồn từ các diễn giải về cơ chế sinh bệnh học, các quan sát hay trải nghiệm thực tế trên lâm sàng, các nghiên cứu dịch tễ học hoặc thậm chí từ trí tưởng tượng của con người [@fletcher_clinical_2014]. Ngoại trừ các phương pháp điều trị có hiệu quả quá lớn mà không cần phải có thêm bằng chứng, luôn cần kiểm tra và đánh giá các ý tưởng hay giả thuyết trên bằng các nghiên cứu khoa học để có bằng chứng rõ ràng và thuyết phục. Bên cạnh bằng chứng từ các nghiên cứu về cơ chế sinh học trong phòng thí nghiệm hay trên động vật, bằng chứng trực tiếp từ các nghiên cứu trên người là cần thiết vì không phải lúc nào cũng có thể suy diễn các kết quả nghiên cứu trong phòng thí nghiệm hay trên động vật sang người. 
+
+```{r, fig.cap="Từ ý tưởng đến bằng chứng", echo=FALSE}
+knitr::include_graphics("figures/dieutri_01.png")
+```
+
+Ví dụ???
+
+## Các vấn đề về đạo đức khi tiến hành một nghiên cứu lâm sàng về điều trị
+
+* Khi nào thì một nghiên cứu lâm sàng về điều trị là cần thiết và phù hợp?
+
+* Chọn nhóm chứng như thế nào là phù hợp?
+
+* Khi nào thì việc phân nhóm ngẫu nhiên bệnh nhân vào nhóm điều trị khác nhau là phù hợp?
+
+"Equipoise": không có lý do nào để tin rằng một phương pháp điều trị là tốt hơn điều trị còn lại. Ai quyết định? Như thế nào là tốt hơn?
+
+* Các nguyên tắc về đạo đức khác
+    + Informed consent: bệnh nhân cần được giải thích và hiểu rõ về quyền lợi và rủi ro khi tham gia nghiên cứu, tự nguyện và không bị ép buộc tham gia nghiên cứu  
+    + Được quyền rút lui bất kỳ lúc nào
+
+## Các câu hỏi nghiên cứu liên quan đến phương pháp điều trị
+
+PICO
+
+### Dân số nghiên cứu
+
+Để có bằng chứng trực tiếp và thuyết phục về hiệu quả của các phương pháp điều trị, các nghiên cứu lâm sàng cần được tiến hành trên người bệnh. Việc lựa chọn đối tượng nghiên cứu cụ thể được thể hiện qua các tiêu chuẩn chọn vào và loại ra cụ thể, và sẽ tuỳ theo mục đích của nghiên cứu.
+
+Nếu mục tiêu chính của nghiên cứu là nhằm chứng minh hiệu lực 
+
+### Điều trị
+
+### Nhóm so sánh
+
+### Kết cuộc
+
+## Các dạng nghiên cứu lâm sàng giúp đánh giá một phương pháp điều trị
+
+## Cách đọc và đánh giá một nghiên cứu về điều trị
+
+## Ví dụ thực tế: nghiên cứu về điều trị COVID-19
+
+## Bài tập
+
+### Điền vào chỗ trống
+
+2 + 2 = `r fitb("4", num = TRUE, width = 10)`
+
+`r hide("Gợi ý")`
+
+See the documentation for `plot()` (`?plot`)
+
+`r unhide()`
+
+`r hide("Xem đáp án")`
+
+4
+
+`r unhide()`
+
+
+```{r eval = FALSE, webex.hide="Xem đáp án"}
+4
+```
+

@@ -1,0 +1,11 @@
+output_dir: "docs"
+book_filename: "CEPI"
+language:
+  label:
+    fig: 'Hình '
+    tab: 'Bảng '
+    eq: 'Công thức '
+    solution: 'Đáp án. '
+  ui:
+    chapter_name: "Chương "
+delete_merged_file: true

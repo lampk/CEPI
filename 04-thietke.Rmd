@@ -1,0 +1,1 @@
+# Các thiết kế trong nghiên cứu lâm sàng {#design}

@@ -1,0 +1,43 @@
+--- 
+title: "Dịch tễ học lâm sàng"
+author: "Phùng Khánh Lâm"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+output: bookdown::gitbook
+documentclass: book
+bibliography: [book.bib, packages.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: lampk/book_EvidenceBasedPractice
+description: "Cơ bản về Dịch tễ học lâm sàng"
+---
+
+```{r include=FALSE}
+# automatically create a bib database for R packages
+knitr::write_bib(c(
+  .packages(), 'bookdown', 'knitr', 'rmarkdown'
+), 'packages.bib')
+
+suppressPackageStartupMessages({
+  library(tidyverse)
+  library(webex)
+})
+
+# default knitr options
+knitr::opts_chunk$set(
+  echo       = TRUE,
+  results    = "hold",
+  out.width  = '100%',
+  fig.width  = 8, 
+  fig.height = 5, 
+  fig.align  = 'center',
+  fig.cap    = TRUE
+)
+
+## set global theme options for figures
+theme_set(theme_bw())
+```
+
+# Lời giới thiệu {-}
+
+
